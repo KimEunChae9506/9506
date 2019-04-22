@@ -23,6 +23,8 @@ public class Main {
 		String 둘 = " 둘";
 		System.out.println(첫);
 		System.out.println(둘);
+		System.out.println("me");
+
 	}
 	
 
