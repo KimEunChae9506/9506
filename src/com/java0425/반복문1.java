@@ -167,14 +167,40 @@ public class 반복문1 {
 			System.out.println();
 
 				}
+    }
+		
+	public void t11() {
+			for(int i=1; i <=11; i++) {
+				for(int j=1; j <=11; j++) {
+					
+					if(i==j) {
+						System.out.print("■");
+					
+			}else if(i==1 || j==1) {
+				System.out.print("■");
+				
+			}else if(i==11 || j==11) {
+				System.out.print("■");
+			
+		}else if(i==6 || j==6) {
+			System.out.print("■");
+		}
+		else if(i+j ==12) {
+			
+			System.out.print("■");
+		}else {
+			System.out.print("□");
+		}
 	
 			}
-			
+				System.out.println();//앞 for이 i가 2되기 전에 한 줄 띄어라.
 			
 
+}
 		
-		
-	}
+		}
+}
+	
 
     
 

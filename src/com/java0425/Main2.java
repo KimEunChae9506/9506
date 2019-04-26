@@ -22,7 +22,7 @@ public class Main2 {
 		for문.t8();
 		*/
 	
-		for문.t10();
+		for문.t11();
 		
 		
 		
