@@ -1,8 +1,9 @@
 package com.java0422;
 
+
 public class Main {
 
-	public static void main(String[] args) {
+	public void main(String[] args) {
 	
    int a = 1;
    int b = 2;
@@ -24,7 +25,11 @@ public class Main {
 		System.out.println(첫);
 		System.out.println(둘);
 		System.out.println("me");
-
+		System.out.println("me");
+		String me = "love m";
+		System.out.println(me);
+		
+		
 	}
 	
 
